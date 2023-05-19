@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/krishnajegadeesan/Krishnajegadeesan.github.io/artman1/static/css/main.7e2a11c7.chunk.css",
+    "main.js": "/krishnajegadeesan/Krishnajegadeesan.github.io/artman1/static/js/main.b2ee25bd.chunk.js",
+    "main.js.map": "/krishnajegadeesan/Krishnajegadeesan.github.io/artman1/static/js/main.b2ee25bd.chunk.js.map",
+    "runtime-main.js": "/krishnajegadeesan/Krishnajegadeesan.github.io/artman1/static/js/runtime-main.35256f66.js",
+    "runtime-main.js.map": "/krishnajegadeesan/Krishnajegadeesan.github.io/artman1/static/js/runtime-main.35256f66.js.map",
+    "static/css/2.4be38407.chunk.css": "/krishnajegadeesan/Krishnajegadeesan.github.io/artman1/static/css/2.4be38407.chunk.css",
+    "static/js/2.c720fbb8.chunk.js": "/krishnajegadeesan/Krishnajegadeesan.github.io/artman1/static/js/2.c720fbb8.chunk.js",
+    "static/js/2.c720fbb8.chunk.js.map": "/krishnajegadeesan/Krishnajegadeesan.github.io/artman1/static/js/2.c720fbb8.chunk.js.map",
+    "index.html": "/krishnajegadeesan/Krishnajegadeesan.github.io/artman1/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/krishnajegadeesan/Krishnajegadeesan.github.io/artman1/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.7e2a11c7.chunk.css.map": "/krishnajegadeesan/Krishnajegadeesan.github.io/artman1/static/css/main.7e2a11c7.chunk.css.map",
+    "static/js/2.c720fbb8.chunk.js.LICENSE.txt": "/krishnajegadeesan/Krishnajegadeesan.github.io/artman1/static/js/2.c720fbb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35256f66.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.c720fbb8.chunk.js",
+    "static/css/main.7e2a11c7.chunk.css",
+    "static/js/main.b2ee25bd.chunk.js"
+  ]
+}
